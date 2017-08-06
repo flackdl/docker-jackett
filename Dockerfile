@@ -1,4 +1,4 @@
-FROM lsiobase/mono
+FROM fafanoulele/rpi-mono
 MAINTAINER sparklyballs
 
 # set version label
